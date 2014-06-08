@@ -21,4 +21,4 @@ LinearSearch
 
 BinarySearch
 
-Follow me on twitter [I'm an inline-style link](https://www.twitter.com/zohaibbrohi)
+Follow me on twitter [@zohaibbrohi](https://www.twitter.com/zohaibbrohi)
